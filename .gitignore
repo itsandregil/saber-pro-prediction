@@ -1,3 +1,7 @@
+# Ignore data and submissions
+datasets/
+submissions/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
