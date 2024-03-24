@@ -1,6 +1,7 @@
 # Ignore data and submissions
 datasets/
 submissions/
+models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
