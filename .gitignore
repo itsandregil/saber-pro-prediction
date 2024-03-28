@@ -1,5 +1,5 @@
 # Ignore data and submissions
-datasets/
+data/
 submissions/
 models/
 
