@@ -1,6 +1,10 @@
 # Saber Pro Colombia Test Prediction
 Data science project to predict students' performance in the Saber Pro test made in Colombia.
 
+## Group Members
+
+- Andre Thomas Gil Cifuentes 1007447715
+- Andres Arroyave Carmona 1001011039
 
 ## About the Data
 
