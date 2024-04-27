@@ -1,4 +1,5 @@
 # Saber Pro Colombia Test Prediction
+
 Data science project to predict students' performance in the Saber Pro test made in Colombia.
 
 ## Group Members
@@ -31,3 +32,9 @@ When you have the data, unzip it into a directory called `data/` inside the proj
 ```bash
 unzip <filename>.zip -d data
 ```
+
+---
+
+### Videos
+
+- Preprocessing Explanation [Watch video](https://youtu.be/MhWAE1yTlXI)
