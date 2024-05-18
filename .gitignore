@@ -1,7 +1,6 @@
 # Ignore data and submissions
 data/
 submissions/
-models/
 catboost_info/
 .DS_Store
 
