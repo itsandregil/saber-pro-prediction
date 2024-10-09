@@ -2,15 +2,6 @@
 
 Data science project to predict students' performance in the Saber Pro test made in Colombia.
 
-## Group Members
-
-- Andre Thomas Gil Cifuentes 1007447715
-- Andres Arroyave Carmona 1001011039
-
-## Notes (Important!)
-We found a best solution with an accuracy of
-44.30% **after making the video**.
-
 ## About the Data
 
 The data used to create the models and do the analysis was taken from a kaggle competition called [Pruebas Saber Pro Colombia](https://www.kaggle.com/competitions/udea-ai4eng-20241/).
@@ -36,10 +27,3 @@ When you have the data, unzip it into a directory called `data/` inside the proj
 ```bash
 unzip <filename>.zip -d data
 ```
-
----
-
-### Videos
-
-- Preprocessing Explanation [Watch video](https://youtu.be/MhWAE1yTlXI)
-- Final Solution Explanation [Watch video](https://youtu.be/5ux-tDzzc7U)
